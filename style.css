@@ -99,7 +99,7 @@ nav .fa{
     display: none;
 }
 
-@media(max-width:375px),(max-height:360px){
+@media(max-width:375px){
     .text-box h1{
         font-size: 20px;
     }
